@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#D8E0E8'
+    - '#587818'
+    - '#A09058'
+    - '#C8D038'
+    - '#88B0E0'
+  brandStrength: 0.341093
+  lightness: 0.75023
+  rhythmicContrast: 0.899452
+  saturation: 0.731476
+cta: {}
+layout_spectrum: 0.97973
+name: PDXCigars
+opengraph: {}
+purpose: {}
+typography_spectrum: 1
